@@ -1,7 +1,7 @@
-import qrcode as myqq
+import qrcode
 import matplotlib.pyplot as plt
 
-qr = myqq.QRCode(
+qr = qrcode.QRCode(
     version=2,
     box_size=15,
     border=5
