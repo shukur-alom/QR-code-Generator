@@ -6,10 +6,7 @@ qr = qrcode.QRCode(
     box_size=15,
     border=5
 )
-data = """Name : Shukur Alam
-Adress : Hajiganj
-Work : In AI
-        """
+data = """Your information"""
 img_name = 'test.jpg'
 qr.add_data(data)
 qr.make(fit=True)
