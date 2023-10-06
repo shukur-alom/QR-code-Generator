@@ -23,5 +23,22 @@ To run this script, you will need:
 You can install the required libraries using `pip`:
 
 ```bash
-pip install -r req.txt
+pip install qrcode == 6.1 matplotlib == 3.3.2
+```
+
+1. Clone this repository to your local machine:
+
+```bash
+git clone https://github.com/yourusername/qr-code-generator.git
+```
+
+2. Edit the 'data' variable in the script to include your information:
+
+```bash
+data = "Your information goes here"
+```
+4. Run the script to generate the QR code image:
+
+```bash
+python generate_qr_code.py
 ```
