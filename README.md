@@ -23,7 +23,7 @@ To run this script, you will need:
 You can install the required libraries using `pip`:
 
 ```bash
-pip install qrcode == 6.1 matplotlib == 3.3.2
+pip install qrcode==6.1 matplotlib==3.3.2
 ```
 
 1. Clone this repository to your local machine:
