@@ -29,7 +29,7 @@ pip install qrcode == 6.1 matplotlib == 3.3.2
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/qr-code-generator.git
+git clone https://github.com/shukur-alom/QR-code-Generator.git
 ```
 
 2. Edit the 'data' variable in the script to include your information:
